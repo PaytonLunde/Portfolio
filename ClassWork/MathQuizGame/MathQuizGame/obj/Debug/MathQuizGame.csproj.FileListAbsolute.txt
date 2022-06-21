@@ -1,0 +1,10 @@
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\bin\Debug\MathQuizGame.exe.config
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\bin\Debug\MathQuizGame.exe
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\bin\Debug\MathQuizGame.pdb
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.csprojAssemblyReference.cache
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.Form1.resources
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.Properties.Resources.resources
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.csproj.GenerateResource.cache
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.exe
+C:\Users\122697\source\repos\MathQuizGame\MathQuizGame\obj\Debug\MathQuizGame.pdb

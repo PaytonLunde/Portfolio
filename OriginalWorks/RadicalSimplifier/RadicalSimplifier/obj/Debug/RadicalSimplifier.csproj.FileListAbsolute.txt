@@ -1,0 +1,14 @@
+D:\RadicalSimplifier\RadicalSimplifier\bin\Debug\RadicalSimplifier.exe.config
+D:\RadicalSimplifier\RadicalSimplifier\bin\Debug\RadicalSimplifier.exe
+D:\RadicalSimplifier\RadicalSimplifier\bin\Debug\RadicalSimplifier.pdb
+D:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.csprojAssemblyReference.cache
+D:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.csproj.CoreCompileInputs.cache
+D:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.exe
+D:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.pdb
+E:\RadicalSimplifier\RadicalSimplifier\bin\Debug\RadicalSimplifier.exe.config
+E:\RadicalSimplifier\RadicalSimplifier\bin\Debug\RadicalSimplifier.exe
+E:\RadicalSimplifier\RadicalSimplifier\bin\Debug\RadicalSimplifier.pdb
+E:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.csprojAssemblyReference.cache
+E:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.csproj.CoreCompileInputs.cache
+E:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.exe
+E:\RadicalSimplifier\RadicalSimplifier\obj\Debug\RadicalSimplifier.pdb

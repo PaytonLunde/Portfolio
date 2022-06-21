@@ -1,0 +1,9 @@
+c:\users\122697\source\repos\matchingIcon\matchingIcon\bin\Debug\matchingIcon.exe.config
+c:\users\122697\source\repos\matchingIcon\matchingIcon\bin\Debug\matchingIcon.exe
+c:\users\122697\source\repos\matchingIcon\matchingIcon\bin\Debug\matchingIcon.pdb
+c:\users\122697\source\repos\matchingIcon\matchingIcon\obj\Debug\matchingIcon.Form1.resources
+c:\users\122697\source\repos\matchingIcon\matchingIcon\obj\Debug\matchingIcon.Properties.Resources.resources
+c:\users\122697\source\repos\matchingIcon\matchingIcon\obj\Debug\matchingIcon.csproj.GenerateResource.cache
+c:\users\122697\source\repos\matchingIcon\matchingIcon\obj\Debug\matchingIcon.csproj.CoreCompileInputs.cache
+c:\users\122697\source\repos\matchingIcon\matchingIcon\obj\Debug\matchingIcon.exe
+c:\users\122697\source\repos\matchingIcon\matchingIcon\obj\Debug\matchingIcon.pdb

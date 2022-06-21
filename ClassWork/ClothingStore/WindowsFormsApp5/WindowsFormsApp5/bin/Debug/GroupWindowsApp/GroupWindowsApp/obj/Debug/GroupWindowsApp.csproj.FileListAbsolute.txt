@@ -1,0 +1,10 @@
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\bin\Debug\GroupWindowsApp.exe.config
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\bin\Debug\GroupWindowsApp.exe
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\bin\Debug\GroupWindowsApp.pdb
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.csprojAssemblyReference.cache
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.Form1.resources
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.Properties.Resources.resources
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.csproj.GenerateResource.cache
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.exe
+C:\Users\121558\source\repos\GroupWindowsApp\GroupWindowsApp\obj\Debug\GroupWindowsApp.pdb

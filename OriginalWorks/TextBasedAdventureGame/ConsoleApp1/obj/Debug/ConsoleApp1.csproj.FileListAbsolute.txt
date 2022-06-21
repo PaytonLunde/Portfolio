@@ -1,0 +1,28 @@
+E:\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\_Portfolio\_Original Works\TextBasedAdventureGame\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

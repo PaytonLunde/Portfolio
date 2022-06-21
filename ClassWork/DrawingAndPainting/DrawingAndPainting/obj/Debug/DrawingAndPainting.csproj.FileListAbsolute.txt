@@ -1,0 +1,10 @@
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\bin\Debug\DrawingAndPainting.exe.config
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\bin\Debug\DrawingAndPainting.exe
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\bin\Debug\DrawingAndPainting.pdb
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.csprojAssemblyReference.cache
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.Form1.resources
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.Properties.Resources.resources
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.csproj.GenerateResource.cache
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.csproj.CoreCompileInputs.cache
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.exe
+C:\Users\122697\source\repos\DrawingAndPainting\DrawingAndPainting\obj\Debug\DrawingAndPainting.pdb

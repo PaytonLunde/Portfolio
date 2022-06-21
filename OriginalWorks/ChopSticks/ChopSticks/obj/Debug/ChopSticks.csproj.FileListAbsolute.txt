@@ -1,0 +1,14 @@
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\obj\Debug\ChopSticks.csprojAssemblyReference.cache
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\obj\Debug\ChopSticks.csproj.CoreCompileInputs.cache
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\bin\Debug\ChopSticks.exe.config
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\bin\Debug\ChopSticks.exe
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\bin\Debug\ChopSticks.pdb
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\obj\Debug\ChopSticks.exe
+C:\Users\122697\source\repos\ChopSticks\ChopSticks\obj\Debug\ChopSticks.pdb
+E:\ChopSticks\ChopSticks\bin\Debug\ChopSticks.exe.config
+E:\ChopSticks\ChopSticks\bin\Debug\ChopSticks.exe
+E:\ChopSticks\ChopSticks\bin\Debug\ChopSticks.pdb
+E:\ChopSticks\ChopSticks\obj\Debug\ChopSticks.csprojAssemblyReference.cache
+E:\ChopSticks\ChopSticks\obj\Debug\ChopSticks.csproj.CoreCompileInputs.cache
+E:\ChopSticks\ChopSticks\obj\Debug\ChopSticks.exe
+E:\ChopSticks\ChopSticks\obj\Debug\ChopSticks.pdb
